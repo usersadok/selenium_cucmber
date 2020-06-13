@@ -5,7 +5,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="src/test/java/usersadok/features/api.feature", 
+@CucumberOptions(features="src/test/java/usersadok/features/", 
 				 glue="",
 				 plugin = {"pretty", "html:target/report"})
 public class TestRunnerLogin {

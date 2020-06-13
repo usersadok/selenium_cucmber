@@ -25,6 +25,7 @@ It is necessary to install below softwares to build the project:
 		- mockito-all-1.10.19.jar
 		- selenium-java
 	- [Selenium Jars - Selenium Client & WebDriver Language Bindings](https://www.selenium.dev/downloads/)
+
 Note: The dependencies version listed for cucumber and selenium might vary in the future of the upload if this PoC. Feel free to leave all the dependencies are they are to make the project run, and then update them all with the current stable versions at the time you are running this PoC.
 
 ### Run the Project
@@ -57,10 +58,6 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 
 ```
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 * **Israel G.** - *Initial work*
